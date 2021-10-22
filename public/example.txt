@@ -1,0 +1,428 @@
+CUSTOMER
+
+W.O. NO.
+
+SERIAL NO.
+
+APPLICABLE STANDARD
+IS 2026/ IEC 76
+VOLTAGE CLASS
+
+PHASE
+1
+NAME OF TEST
+
+TYPE OF TRANSFORMER
+
+TYPE OF TAP CHANGER
+
+RATED POWER IN MVA: HV/  LV1
+100.00/  100.00
+RATED VOLTAGE (L/N) IN KV: HV/  LV1
+100.00/  100.00
+RATED CURRENT IN AMP: HV/  LV1
+1000.0/  1000.0
+RATED FREQUENCY IN HZ
+50.0
+TAP POSITION
+
+TEST VOLTAGE IN KV
+1.0000
+CONNECTION HV/  LV
+/  /  
+TEST WINDING
+HV
+NO OF PHASES
+3
+TEST CONDITION
+
+TEST DATE
+
+TESTED BY
+
+WITNESSED BY
+
+APPROVED BY
+
+REMARKS
+
+FILE CREATION DATE
+1/1/2009
+FILE CREATION TIME
+12:10:17 AM
+SOFTWARE KIND OF TEST
+3 PHASE, L/L, LOAD LOSS
+TEST TAP POSITION
+
+VOLTAGE APPLIED (%)
+100.0
+AVG. CURRENT [A]
+10.923
+RMS VOLTAGE [kV]
+90.404
+MEASURED POWER [kW]/ IMPEDANCE PER PHASE [Ohm] (zero sequence)
+154.71
+IMPEDANCE Z [%]
+1192.4
+AVG. VOLTAGE [kV]/ MEASURED POWER [kW] (zero sequence)
+
+CORRECTED POWER [kW]/ ZERO SEQUENCE IMPEDANCE [%] (zero sequence)
+
+RMS VOLTAGE 1st PHASE [kV]
+90.414
+RMS VOLTAGE 2nd PHASE [kV]
+91.281
+RMS VOLTAGE 3rd PHASE [kV]
+89.516
+Frequency [Hz]
+200.36000
+AVG VOLTAGE 1st PHASE [kV] / IMPEDANCE Z [%]
+1243.3
+AVG VOLTAGE 2nd PHASE [kV] / IMPEDANCE Z [%]
+1145.6
+AVG VOLTAGE 3nd PHASE [kV] / IMPEDANCE Z [%]
+1194.1
+CURRENT 1st PHASE [A]
+10.272
+CURRENT 2nd PHASE [A]
+11.592
+CURRENT 3rd PHASE [A]
+10.906
+POWER 1st PHASE [kW]
+30.027
+POWER 2nd PHASE [kW]
+49.438
+POWER 3rd PHASE [kW]
+75.247
+APPARENT POWER 1st PHASE [kVA]
+525.70
+APPARENT POWER 2nd PHASE [kVA]
+616.88
+APPARENT POWER 3rd PHASE [kVA]
+569.13
+POWER FACTOR 1st PHASE 
+0.057
+POWER FACTOR 2nd PHASE
+0.080
+POWER FACTOR 3rd PHASE
+0.132
+Temperature [C]
+20.0
+U shape (1st Phase) 
+0.999
+U shape (2nd Phase)
+1.001
+U shape (3rd Phase)
+1.000
+U1 1st Harmonic [%]
+100.00
+U1 2nd Harmonic [%]
+0.09
+U1 3rd Harmonic [%]
+0.31
+U1 4th Harmonic [%]
+0.01
+U1 5th Harmonic [%]
+0.10
+U1 6th Harmonic [%]
+0.01
+U1 7th Harmonic [%]
+0.03
+U1 8th Harmonic [%]
+0.01
+U1 9th Harmonic [%]
+0.01
+U1 10th Harmonic [%]
+0.00
+U1 11th Harmonic [%]
+0.01
+U1 12th Harmonic [%]
+0.01
+U1 13th Harmonic [%]
+0.01
+U1 14th Harmonic [%]
+0.01
+U1 15th Harmonic [%]
+0.00
+U1 16th Harmonic [%]
+0.00
+U1 17th Harmonic [%]
+0.01
+U1 18th Harmonic [%]
+0.01
+U1 19th Harmonic [%]
+0.01
+U1 20th Harmonic [%]
+0.01
+U1 21st Harmonic [%]
+0.01
+U1 22nd Harmonic [%]
+0.01
+U1 23rd Harmonic [%]
+0.00
+U1 24th Harmonic [%]
+0.00
+U1 25th Harmonic [%]
+0.01
+U1 26th Harmonic [%]
+0.00
+I1 1st Harmonic [%]
+100.00
+I1 2nd Harmonic [%]
+0.47
+I1 3rd Harmonic [%]
+0.70
+I1 4th Harmonic [%]
+0.14
+I1 5th Harmonic [%]
+0.58
+I1 6th Harmonic [%]
+0.15
+I1 7th Harmonic [%]
+0.32
+I1 8th Harmonic [%]
+0.13
+I1 9th Harmonic [%]
+0.12
+I1 10th Harmonic [%]
+0.06
+I1 11th Harmonic [%]
+0.14
+I1 12th Harmonic [%]
+0.17
+I1 13th Harmonic [%]
+0.38
+I1 14th Harmonic [%]
+0.19
+I1 15th Harmonic [%]
+0.11
+I1 16th Harmonic [%]
+0.10
+I1 17th Harmonic [%]
+0.11
+I1 18th Harmonic [%]
+0.15
+I1 19th Harmonic [%]
+0.10
+I1 20th Harmonic [%]
+0.23
+I1 21st Harmonic [%]
+0.29
+I1 22nd Harmonic [%]
+0.19
+I1 23rd Harmonic [%]
+0.22
+I1 24th Harmonic [%]
+0.08
+I1 25th Harmonic [%]
+0.16
+I1 26th Harmonic [%]
+0.12
+U2 1st Harmonic [%]
+100.00
+U2 2nd Harmonic [%]
+0.20
+U2 3rd Harmonic [%]
+0.20
+U2 4th Harmonic [%]
+0.01
+U2 5th Harmonic [%]
+0.09
+U2 6th Harmonic [%]
+0.01
+U2 7th Harmonic [%]
+0.03
+U2 8th Harmonic [%]
+0.01
+U2 9th Harmonic [%]
+0.01
+U2 10th Harmonic [%]
+0.01
+U2 11th Harmonic [%]
+0.01
+U2 12th Harmonic [%]
+0.01
+U2 13th Harmonic [%]
+0.02
+U2 14th Harmonic [%]
+0.01
+U2 15th Harmonic [%]
+0.01
+U2 16th Harmonic [%]
+0.00
+U2 17th Harmonic [%]
+0.01
+U2 18th Harmonic [%]
+0.00
+U2 19th Harmonic [%]
+0.01
+U2 20th Harmonic [%]
+0.02
+U2 21st Harmonic [%]
+0.01
+U2 22nd Harmonic [%]
+0.01
+U2 23rd Harmonic [%]
+0.01
+U2 24th Harmonic [%]
+0.01
+U2 25th Harmonic [%]
+0.01
+U2 26th Harmonic [%]
+0.01
+I2 1st Harmonic [%]
+100.00
+I2 2nd Harmonic [%]
+0.40
+I2 3rd Harmonic [%]
+0.63
+I2 4th Harmonic [%]
+0.12
+I2 5th Harmonic [%]
+0.81
+I2 6th Harmonic [%]
+0.30
+I2 7th Harmonic [%]
+0.26
+I2 8th Harmonic [%]
+0.55
+I2 9th Harmonic [%]
+0.32
+I2 10th Harmonic [%]
+0.45
+I2 11th Harmonic [%]
+0.36
+I2 12th Harmonic [%]
+0.47
+I2 13th Harmonic [%]
+0.51
+I2 14th Harmonic [%]
+0.38
+I2 15th Harmonic [%]
+0.56
+I2 16th Harmonic [%]
+0.65
+I2 17th Harmonic [%]
+0.28
+I2 18th Harmonic [%]
+0.36
+I2 19th Harmonic [%]
+0.21
+I2 20th Harmonic [%]
+0.22
+I2 21st Harmonic [%]
+0.26
+I2 22nd Harmonic [%]
+0.20
+I2 23rd Harmonic [%]
+0.08
+I2 24th Harmonic [%]
+0.19
+I2 25th Harmonic [%]
+0.20
+I2 26th Harmonic [%]
+0.24
+U3 1st Harmonic [%]
+100.00
+U3 2nd Harmonic [%]
+0.19
+U3 3rd Harmonic [%]
+0.13
+U3 4th Harmonic [%]
+0.01
+U3 5th Harmonic [%]
+0.10
+U3 6th Harmonic [%]
+0.01
+U3 7th Harmonic [%]
+0.03
+U3 8th Harmonic [%]
+0.02
+U3 9th Harmonic [%]
+0.02
+U3 10th Harmonic [%]
+0.01
+U3 11th Harmonic [%]
+0.01
+U3 12th Harmonic [%]
+0.02
+U3 13th Harmonic [%]
+0.02
+U3 14th Harmonic [%]
+0.02
+U3 15th Harmonic [%]
+0.01
+U3 16th Harmonic [%]
+0.01
+U3 17th Harmonic [%]
+0.01
+U3 18th Harmonic [%]
+0.02
+U3 19th Harmonic [%]
+0.01
+U3 20th Harmonic [%]
+0.01
+U3 21st Harmonic [%]
+0.02
+U3 22nd Harmonic [%]
+0.01
+U3 23rd Harmonic [%]
+0.01
+U3 24th Harmonic [%]
+0.02
+U3 25th Harmonic [%]
+0.02
+U3 26th Harmonic [%]
+0.03
+I3 1st Harmonic [%]
+100.00
+I3 2nd Harmonic [%]
+0.78
+I3 3rd Harmonic [%]
+0.42
+I3 4th Harmonic [%]
+0.16
+I3 5th Harmonic [%]
+0.51
+I3 6th Harmonic [%]
+0.32
+I3 7th Harmonic [%]
+0.35
+I3 8th Harmonic [%]
+0.38
+I3 9th Harmonic [%]
+0.23
+I3 10th Harmonic [%]
+0.24
+I3 11th Harmonic [%]
+0.35
+I3 12th Harmonic [%]
+0.41
+I3 13th Harmonic [%]
+0.35
+I3 14th Harmonic [%]
+0.43
+I3 15th Harmonic [%]
+0.53
+I3 16th Harmonic [%]
+0.58
+I3 17th Harmonic [%]
+0.27
+I3 18th Harmonic [%]
+0.40
+I3 19th Harmonic [%]
+0.22
+I3 20th Harmonic [%]
+0.22
+I3 21st Harmonic [%]
+0.19
+I3 22nd Harmonic [%]
+0.17
+I3 23rd Harmonic [%]
+0.21
+I3 24th Harmonic [%]
+0.22
+I3 25th Harmonic [%]
+0.14
+I3 26th Harmonic [%]
+0.28
